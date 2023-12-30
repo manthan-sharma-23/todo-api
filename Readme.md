@@ -17,7 +17,7 @@ cd ./todo-api
    Use Docker Compose to install dependencies, set up a PostgreSQL database, and run the app instance locally.
 
 ```bash
-docker-compose up
+docker compose up
 ```
 
 3\. **Access the App:**
@@ -26,7 +26,7 @@ docker-compose up
 
 ## API Endpoints
 
-**Postman Workspace:**https://documenter.getpostman.com/view/26738295/2s9YsDjEYA
+**Postman Workspace:** https://documenter.getpostman.com/view/26738295/2s9YsDjEYA
 
 ## Running Locally
 
