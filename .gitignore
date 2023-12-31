@@ -5,3 +5,5 @@ bin
 
 .env
 .env.*
+
+trial.js
